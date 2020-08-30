@@ -5,10 +5,15 @@ Anyone telling that it is a virus or a creditals stealer is completely wrong. If
 This client is made to have easier navigation by utilizing shortcuts while giving the least input delay & the maximum of FPS together.
 
 Client Shortcuts:
+
 F1 - Leaves the game back to the main menu
+
 F2 - Opens the Link Menu where you can join your friends via a Invite link
+
 F4 - Quits the Client
+
 F10 - Switches the game to Windowed Mode
+
 F11 - Switches the game to Fullscreen Mode
 
 
