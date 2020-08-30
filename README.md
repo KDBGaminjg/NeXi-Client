@@ -4,12 +4,18 @@ This client is NOT a virus and won't harm your PC or either your account in 'Ven
 Anyone telling that it is a virus or a creditals stealer is completely wrong. If you don't believe me then please refer deleting the client again.
 This client is made to have easier navigation by utilizing shortcuts while giving the least input delay & the maximum of FPS together.
 
-Client Shortcuts: 
+Client Shortcuts:
+
 F1 - Leaves the game back to the main menu 
+
 F2 - Opens the Link Menu where you can join your friends via a Invite link 
+
 F4 - Quits the Client 
+
 F10 - Switches the game to Windowed Mode 
+
 F11 - Switches the game to Fullscreen Mode 
+
 
 
 How to install it:
@@ -29,8 +35,13 @@ Credits
 NeXi
 
 Social
+
 Discord: NeXi#9174
+
 NeXi2k's Discord: https://discord.gg/vQZbaT6
+
 Twitch: twitch.tv/nexi2k_
+
 Twitter: @NeXi2k
+
 Venge.io: NeXi2k
