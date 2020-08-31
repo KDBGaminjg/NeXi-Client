@@ -2,9 +2,9 @@ const { app } = require('electron')
 const { BrowserWindow } = require('electron')
 const { globalShortcut } = require('electron')
 const { dialog } = require('electron')
-const { prompt } = require('electron-prompt')
+const prompt = require('electron-prompt')
 /*const { autoUpdater } = require('electron-updater')*/
-const { path } = require('path')
+const path = require('path')
 /*const server = 'https://update.electronjs.org'
 const feed = `${server}/NeXiDE/NeXi-Client/${process.platform}-${process.arch}/${app.getVersion()}`*/
 
