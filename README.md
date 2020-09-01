@@ -16,8 +16,6 @@ F11 - Switches the game to Fullscreen Mode
 
 How to install it: Just drag the 'NeXiClient' folder somewhere you can find it again (e.x Desktop) and start the NeXiClient file inside the folder
 
-How to unlimite the FPS: Right click on the 'NeXiClient' application and press 'Create Shortcut' After creating the shortcut, right click the shortcut and open 'Propertise' Add behind 'Target' a spacebar and this command-line "--disable-frame-rate-limit" & save it
-
 If you encounter any bugs & problems then please. Join my discord and let me now about it.
 
 Credits: NeXi
